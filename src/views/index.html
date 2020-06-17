@@ -8,32 +8,30 @@
 {% endblock styles %}
 
 
+{% block content %}
+    <div class="content">
+        <header>
+            <img src="/assets/logo.svg" alt="Logomarca">
+            <a href="/create-point">
+                <span></span>
+                Cadastre um ponto de coleta
+            </a> 
+        </header>
 
-       {% block content %}
-        <div class="content">
-            <header>
-                <img src="/assets/logo.svg" alt="logomarca">
-                <a href="/create-point">
-                    <span></span>
-                    Cadastre um ponto de coleta</a>
-            </header>
-            <main>
-
-                <h1>Seu marketplace de coleta de residuos</h1>
-    
-                <p>Ajudamos pessoas a encontrarem pontos de coleta de forma eficientes.</p>
+        <main>
+            <h1>Seu marketplace de coleta de resíduos</h1>
+                
+            <p>Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.</p>
         
-                <a href="#"><span></span><strong> Pesquisar pontos de coleta</strong></a>
+            <a href="#"><span></span><strong>Pesquisar pontos de coleta</strong></a>
+        </main>
+    </div>
+{% endblock content %}
 
-            </main>
-        </div>
-       {% endblock content %}
-
-    
-    {% block modal %}
-        {% include "partials/modal.html" %}
-    {% endblock modal %}
-
+       
+{% block modal %}
+    {% include "partials/modal.html" %}
+{% endblock modal %}
 
 
 {% block scripts %}
