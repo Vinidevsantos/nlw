@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+  <img alt="Ecoleta" src="https://github.com/Rocketseat/nlw-01-starter/raw/master/.github/ecoleta.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
