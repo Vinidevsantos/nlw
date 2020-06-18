@@ -61,7 +61,7 @@ That aims to connect people to companies that collect specific waste such as lig
 </h1>
 
 
-## :rock: Technologies
+## :rocket: Technologies
 
 This project was developed with the following technologies:
 
