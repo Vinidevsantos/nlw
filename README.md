@@ -10,6 +10,12 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+<p>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Vinidevsantos/nlw">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Vinidevsantos/nlw">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Vinidevsantos?style=social">
+</p>
+
 <br>
 
 <p align="center">
