@@ -14,6 +14,8 @@
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Vinidevsantos/nlw">
     <img alt="GitHub" src="https://img.shields.io/github/license/Vinidevsantos/nlw">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Vinidevsantos?style=social">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Vinidevsantos/nlw?style=social">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Vinidevsantos/nlw">
 </p>
 
 <br>
