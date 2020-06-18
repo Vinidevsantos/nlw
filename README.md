@@ -27,6 +27,7 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/DanielObara/NLW-1.0?style=social">
   </a>
 </p>
+
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -60,7 +61,7 @@ That aims to connect people to companies that collect specific waste such as lig
 </h1>
 
 
-## :Rocketseat: Technologies
+## :rock: Technologies
 
 This project was developed with the following technologies:
 
