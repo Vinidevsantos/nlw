@@ -73,8 +73,8 @@ Made with ♥ by Vinicius Santos :wave: [Get in touch!](https://www.linkedin.com
 
 ---
 
-<a style="border-radius: 50%" href="https://github.com/Vinidevsantos/">
- <img src="https://avatars1.githubusercontent.com/u/62895999?s=460&u=90819b38224622bceb1b6f55d1bde2dae94d469f&v=4" width="100px;" alt="Vini imagem"/>
+<a  href="https://github.com/Vinidevsantos/">
+ <img style="border-radius: 50%" src="https://avatars1.githubusercontent.com/u/62895999?s=460&u=90819b38224622bceb1b6f55d1bde2dae94d469f&v=4" width="100px;" alt="Vini imagem"/>
  <br />
  <sub><b>Vinicius Santos</b></sub></a> <a href="https://github.com/Vinidevsantos/" title="Vinidevsantos">🚀</a>
 
