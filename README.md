@@ -11,7 +11,7 @@
   <a href="#Autor">Autor</a>
 </p>
 
-<p>
+<p align="center>
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Vinidevsantos/nlw">
     <img alt="GitHub" src="https://img.shields.io/github/license/Vinidevsantos/nlw">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Vinidevsantos?style=social">
