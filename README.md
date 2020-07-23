@@ -7,7 +7,8 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-memo-licença">Licença</a>
+  <a href="#-Autor">Autor</a>
 </p>
 
 <p>
@@ -68,7 +69,7 @@ Made with ♥ by Vinicius Santos :wave: [Get in touch!](https://www.linkedin.com
 [rn]: https://facebook.github.io/react-native/
 [yarn]: https://yarnpkg.com/
 
-### Autor
+## Autor
 
 ---
 
