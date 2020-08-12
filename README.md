@@ -86,3 +86,8 @@ Feito com ❤️ por Vinicius Santos 👋🏽 Entre em contato!
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinidevsantos/)](https://www.linkedin.com/in/vinidevsantos/) 
 [![Gmail Badge](https://img.shields.io/badge/-santosvini.rv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosvini.rv@gmail.com)](mailto:santosvini.rv@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/vinidevsantos?style=social)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinidevsantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinidevsantos)](https://github.com/anuraghazra/github-readme-stats)
+
